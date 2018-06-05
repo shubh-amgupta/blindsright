@@ -128,7 +128,8 @@ body {
   background-position: center; }
   .header__logo {
     position: relative;
-    top: 10%;
+    top: 20%;
+    left: 50%;
     animation: logoIn 2000ms forwards 2000ms cubic-bezier(0.56, -0.68, 0.32, 1.59);
     opacity: 0; }
 
@@ -498,7 +499,7 @@ a:visited {
   80% {
     opacity: 1; }
   100% {
-    left: 0;
+    left: 5%;
     opacity: 1; } }
 
 .cta__contact {
